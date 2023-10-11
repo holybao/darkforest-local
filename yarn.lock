@@ -1672,10 +1672,10 @@
     graphql-import-node "^0.0.5"
     js-yaml "^4.1.0"
 
-"@graphprotocol/graph-cli@0.60.0":
-  version "0.60.0-alpha-20231010235535-d648634"
-  resolved "https://registry.yarnpkg.com/@graphprotocol/graph-cli/-/graph-cli-0.60.0-alpha-20231010235535-d648634.tgz#4768783a8691b3f0d4096ac3e0ccaebd9f6c3afe"
-  integrity sha512-mnP9ehm7fvxUNOF1r4cUw/V53PmXT7QMjXXouQCaPO4/EEMSrfcVrJrScbKl97eTBNkW/CaXfJSAHCu4/r6Wew==
+"@graphprotocol/graph-cli@0.59.0":
+  version "0.59.0"
+  resolved "https://registry.yarnpkg.com/@graphprotocol/graph-cli/-/graph-cli-0.59.0.tgz#ff5b899204a22f984f97bcc92d8a092b81dcdb0d"
+  integrity sha512-uddsyUootdhQgMqQXkrD0INn/nNkQB+3t5luRzjY0pxA4O9hidXjYZNScjvSgf3eiaN0rcEs/s56qa/dsy4LwA==
   dependencies:
     "@float-capital/float-subgraph-uncrashable" "^0.0.0-alpha.4"
     "@oclif/core" "2.8.6"
@@ -5688,12 +5688,7 @@ camelize@^1.0.0:
   resolved "https://registry.yarnpkg.com/camelize/-/camelize-1.0.0.tgz#164a5483e630fa4321e5af07020e531831b2609b"
   integrity sha1-FkpUg+Yw+kMh5a8HAg5TGDGyYJs=
 
-caniuse-lite@^1.0.30000844, caniuse-lite@^1.0.30001264:
-  version "1.0.30001547"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001547.tgz"
-  integrity sha512-W7CrtIModMAxobGhz8iXmDfuJiiKg1WADMO/9x7/CLNin5cpSbuBjooyoIUVB5eyCc36QuTVlkVa1iB2S5+/eA==
-
-caniuse-lite@^1.0.30001274:
+caniuse-lite@^1.0.30000844, caniuse-lite@^1.0.30001264, caniuse-lite@^1.0.30001274:
   version "1.0.30001547"
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001547.tgz"
   integrity sha512-W7CrtIModMAxobGhz8iXmDfuJiiKg1WADMO/9x7/CLNin5cpSbuBjooyoIUVB5eyCc36QuTVlkVa1iB2S5+/eA==
