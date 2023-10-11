@@ -1,4 +1,8 @@
 node_modules/
+circuits/
+eth/
+packages/
+client/
 
 # Local Netlify folder
 .netlify
